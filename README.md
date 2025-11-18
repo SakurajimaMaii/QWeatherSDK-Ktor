@@ -1,14 +1,17 @@
 <div align="center">
-<img src="https://static.rtakland.icu/static/qwsdk/qwsdkIcon.png" alt="SDKIcon">
+<img src="https://static.rtast.cn/static/qwsdk/qwsdkIcon.png" alt="SDKIcon">
 
 <h3>Made By <a href="https://github.com/SakurajimaMaii">SakurajimaMaii</a></h3>
 
-<img src="https://static.rtakland.icu/static/kotlin/made-with-kotlin.svg" alt="MadeWithKotlin">
+<img src="https://static.rtast.cn/static/kotlin/made-with-kotlin.svg" alt="MadeWithKotlin">
 
 <br>
 <img alt="JDK Version" src="https://img.shields.io/badge/jdk%20version-17-2300b894?style=flat">
 <img alt="GitHub" src="https://img.shields.io/github/license/RTAkland/QWeatherSDK?logo=apache">
 </div>
+
+> [!CAUTION]
+> 该项目已经过时，后续相关的开发工作将迁移至 [qweather-kmp](https://github.com/SakurajimaMaii/qweather-kmp)
 
 # 概述
 
